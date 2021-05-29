@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aishafarooque
-- 👀 I’m interested in full-stack and mobile development.
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning iOS development and dynamic programming.
 - 📫 You can reach me at ashfarooque@gmail.com
 
