@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aishafarooque
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning full-stack development.
+- 👀 I’m a software engineering.
+- 🌱 I’m currently learning full-stack and mobile development.
 - 📫 You can reach me at ashfarooque@gmail.com
 
 <!---
