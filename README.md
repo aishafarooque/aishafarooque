@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aishafarooque
-- 👀 I’m a software engineering.
+- 👀 I’m a software engineer.
 - 🌱 I’m currently learning full-stack and mobile development.
 - 📫 You can reach me at ashfarooque@gmail.com
 
